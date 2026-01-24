@@ -2,12 +2,7 @@
 # yarn lockfile v1
 
 
-lodash@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-boundaries/-/eslint-plugin-boundaries-2.9.0.tgz#1ae45985bf6a9c645c1b5f3b97a9f7c30342e41c"
-  integrity sha512-GIRfYrCtG/Z3q0oYRWvOtWMOSIEYjxeQYZKeEg+JfMgo55iPghLp5HCqSlJGO6BKtKwsNEP66/pszjSzrs+ibA==
-
-lodash@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-boundaries/-/eslint-plugin-boundaries-2.9.0.tgz#1ae45985bf6a9c645c1b5f3b97a9f7c30342e41c"
-  integrity sha512-GIRfYrCtG/Z3q0oYRWvOtWMOSIEYjxeQYZKeEg+JfMgo55iPghLp5HCqSlJGO6BKtKwsNEP66/pszjSzrs+ibA==
+lodash@^4.17.23:
+  version "4.17.23"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.23.tgz#f113b0378386103be4f6893388c73d0bde7f2c5a"
+  integrity sha512-LgVTMpQtIopCi79SJeDiP0TfWi5CNEc/L/aRdTh3yIvmZXTnheWpKjSZhnvMl8iXbC1tFg9gdHHDMLoV7CnG+w==
